@@ -4,9 +4,9 @@
 # public key with the provided values. Simply update the values
 # below, run "./init.sh" in your terminal and you're good to go!
 
-NAME="mpl-project-name"
-DESCRIPTION="My project description"
-PUBLIC_KEY="MyProgram1111111111111111111111111111111111"
+NAME="MarketingGPT"
+DESCRIPTION="MKGPT"
+PUBLIC_KEY="BbZE5YBkD83tLz3kjm9CzjRsotxeR4NCL3eVn1wwGHTN"
 
 # ------------------------------------
 # --- Do not edit below this line. ---
